@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<server>
+		<port>1234</port>
+	</server>
+	<client type="type">
+		<ip>192.168.2.1</ip>
+		<port>8080</port>
+
+		<auth>
+			<username>testUser</username>
+			<password>testPass</password>
+			<keyfile>/tmp/testkey</keyfile>
+		</auth>
+	</client>
+
+</properties>
